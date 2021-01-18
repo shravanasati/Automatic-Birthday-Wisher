@@ -28,7 +28,7 @@ Type the following command in your Git Bash:
 The whole repository would be cloned in the directory you opened the Git Bash in.
 
 ### Using GitHub ZIP download
-You can alternatively download the repository as a zip file using the GitHub **Download ZIP** feature by clicking [here]().
+You can alternatively download the repository as a zip file using the GitHub **Download ZIP** feature by clicking [here](https://github.com/Shravan-1908/Automatic-Birthday-Wisher/archive/master.zip).
 
 
 You can either use the *exe* build of the Automatic-Birthday-Wisher (named as `main.exe`) or if you have Go compiler installed on your system, you can run the program using the command ```go run .\main.go```.
