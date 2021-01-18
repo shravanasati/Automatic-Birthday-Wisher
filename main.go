@@ -33,7 +33,7 @@ func sendMail(to []string, from, password, subject, body string) {
 }
 
 func wishBirthday() {
-	f, err := excelize.OpenFile(`C:\Users\Lenovo\Documents\MS Office\Excel files\birthdays.xlsx`)
+	f, err := excelize.OpenFile(`birthdays.xlsx`)
 	if err != nil {
 		panic(err)
 	}

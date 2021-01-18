@@ -10,6 +10,13 @@
 - Could be deployed on a server
 
 
+## Setup
+A `birthdays.xlsx` in given in the repo. It consists of three columns, namely, *Name*, *Date* and *Email*.
+
+The *Date* column must contain date values in `DD-MM` format. For example, if someone has his birthday on 24th January, then his birthday date in the excel file should be `24-01`. 
+
+Fill the `birthdays.xlsx` excel file with data of all the people you would like to wish on their birthdays. You're then good to **GO**!
+
 ## Installation
 ### Using Git
 Type the following command in your Git Bash:
