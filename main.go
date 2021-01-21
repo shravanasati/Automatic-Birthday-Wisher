@@ -60,7 +60,7 @@ func wishBirthday() {
 		if birthday == date() {
 			subject := "Happy Birthday " + name
 			body := fmt.Sprintf("Hey %v, \nHappy birthday to you! Wish you an octotastic life ahead!\nYours lovely,\nShravan", name)
-			sendMail([]string{email}, "delunator.one@yahoo.com", "ytxyqkendtnngqib", subject, body)
+			sendMail([]string{email}, "your_email", "your_email_password", subject, body)
 			fmt.Println("Wished happy birthday to", name)
 		
 		} else {
